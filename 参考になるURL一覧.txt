@@ -1,0 +1,24 @@
+https://qiita.com/y518gaku/items/07961c61f5efef13cccc
+
+bashのコマンドを入力すると、そのコマンドの構造やフラグの意味を確認できます。
+https://explainshell.com/explain?cmd=ls
+
+体で覚えるLinuxの基本
+https://xtech.nikkei.com/it/article/COLUMN/20060711/242981/
+
+IBM Developer Japan Webサイトで公開していた日本語のコンテンツの中から、特に人気の 高いコンテンツをオープンソースとして公開
+https://github.com/IBM/japan-technology
+
+linuxtutorial 英語版
+https://ryanstutorials.net/linuxtutorial/
+
+PyPl（python関連のインストールできるパッケージ一覧）
+https://pypi.python.org/pypi
+
+仮想環境について
+http://docs.python-guide.org/en/latest/dev/virtualenvs
+
+http://docs.python.org/ja/3/library/venv.html
+
+アルゴリズムの勉強になる
+https://leetcode.com/
